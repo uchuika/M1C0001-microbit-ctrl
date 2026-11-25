@@ -1,0 +1,29 @@
+﻿# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Local tool config / caches
+.serena/
+.claude/settings.local.json
+
+# Work-in-progress copies
+*-last.hex
+*.bak
+*.tmp
+
+# MakeCode / Node build output (if extensions are added later)
+built/
+node_modules/
+pxt_modules/
+.pxt/
+
+# Secrets
+.env
+*.key
+
+# Vendor (SIYEENOVE) materials must not be redistributed here
+*.pdf
+*.apk
